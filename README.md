@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # About Me:
 👋 Hello, I'm Arezyhs<br>🎓 Computer Science student with a passion for Data Science & Analytics.<br>🔍 I love working with data—exploring patterns, extracting insights, and turning raw numbers into meaningful stories. Currently sharpening my skills in Python and Machine Learning to dive deeper into the world of data.<br>🌱 Learning: Data Visualization (Matplotlib/Seaborn), Statistical Analysis, and Big Data tools.<br>💡 Interests: Open-source projects, AI/ML applications, and solving real-world problems with data-driven solutions.<br>📫 Let's connect! Reach me via GitHub or explore my repos below.
