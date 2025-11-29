@@ -36,9 +36,6 @@ passionate about data science, machine learning, and ai technologies
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arezyhs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://raw.githubusercontent.com/arezyhs/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
 </div>
 
 </details>
